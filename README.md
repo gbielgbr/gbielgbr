@@ -18,6 +18,8 @@ Atualmente Field Service e cursando Ciência da Computação na UNICID.
 |---|---|---|---|
 
 # Projetos
- Em construção...
+
+- [Urna Eletrônica em PHP](https://github.com/gbielgbr/PHP.git) - Este projeto de urna eletrônica foi desenvolvido como parte do curso de Ciência da Computação, com o objetivo de aprimorar as habilidades em programação web. Utilizou-se HTML, CSS e programação orientada a objetos em PHP para criar uma aplicação interativa e dinâmica. A utilização de sessions proporcionou uma e
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbielgbr&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
